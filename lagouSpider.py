@@ -16,7 +16,7 @@ headers = {
         'Accept-Language':'zh-CN,zh;q=0.8',
         'Connection':'keep-alive',
         'Content-Length':'25',
-        'Content-Type':'application/x-www-form-urlencoded; 
+        'Content-Type':'pplication/x-www-form-urlencoded; charset=UTF-8',
         'Cookie':'填上cookie信息',
         'Host':'www.lagou.com',
         'Origin':'https://www.lagou.com',
